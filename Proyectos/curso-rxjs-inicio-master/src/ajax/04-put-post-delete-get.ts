@@ -1,5 +1,5 @@
 import { ajax } from "rxjs/ajax";
-import { OBSERBABLE } from "./OBSERBABLE";
+import { OBSERBABLE } from "../OBSERBABLE";
 
 const url = "https://httpbin.org/delay/1";
 ajax.get(url, {}).subscribe(OBSERBABLE);
