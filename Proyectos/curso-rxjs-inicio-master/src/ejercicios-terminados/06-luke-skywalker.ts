@@ -20,7 +20,7 @@ import { zip, of } from "rxjs";
 // Información sobre los humanos en el universo de Star Wars
 // Ejemplo de la data esperada
 /*
- { name: "Human", classification: "mammal", designation: "sentient", average_height: "180", skin_colors: "caucasian, black, asian, hispanic", …}
+ { name: "Human", classification: "mammal", designation: "sentient", average_height: "180", skin_colors: "caucasian, black, asian, hispanic",…}
 */
 
 // Respuesta esperada con Mayor dificultad
